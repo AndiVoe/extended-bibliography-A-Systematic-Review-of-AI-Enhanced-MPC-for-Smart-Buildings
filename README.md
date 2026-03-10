@@ -49,6 +49,28 @@ This bibliography is intended to:
 2. Serve as a starting point for researchers entering the field of AI-enhanced building control
 3. Provide a curated reading list covering both foundational theory and recent applied work (2013–2026)
 
+## How to Cite
+
+If you use this bibliography in your research, please cite it. GitHub displays a **"Cite this repository"** button (top-right of the repository page) that generates ready-to-use citations once the [`CITATION.cff`](CITATION.cff) file is present.
+
+You can also use one of the formats below directly.
+
+**APA**
+```
+AndiVoe. (2026). Extended Bibliography — A Systematic Review of AI-Enhanced MPC for Smart Buildings [Dataset]. GitHub. https://github.com/AndiVoe/extended-bibliography-A-Systematic-Review-of-AI-Enhanced-MPC-for-Smart-Buildings
+```
+
+**BibTeX**
+```bibtex
+@misc{andivoe2026extended,
+  author       = {AndiVoe},
+  title        = {{Extended Bibliography — A Systematic Review of AI-Enhanced MPC for Smart Buildings}},
+  year         = {2026},
+  howpublished = {\url{https://github.com/AndiVoe/extended-bibliography-A-Systematic-Review-of-AI-Enhanced-MPC-for-Smart-Buildings}},
+  note         = {GitHub repository}
+}
+```
+
 ## Contributing
 
 If you notice a missing reference or an error in an existing entry, please open an issue or submit a pull request.
